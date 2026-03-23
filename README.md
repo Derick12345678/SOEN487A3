@@ -2,6 +2,9 @@
 
 Student Management System using GraphQL, Apollo Server, and Express.js
 
+Watch a working demo video here:
+https://youtu.be/AbflyJ_8Mjk
+
 ## Project Structure
 
 ```
